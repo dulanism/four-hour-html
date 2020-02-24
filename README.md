@@ -8,3 +8,4 @@ The mockup is designed with a common layout, and is simple enough to teach basic
 ## Brushing Up
 
 This CSS infographic was created courtesy of [@TeresaSposato](https://twitter.com/teresasposato).
+![](images/css3-properties.jpg)
